@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /about-first/
   - title: "History"
-  # url: /year-archive/
+    url: /history/
   - title: "Sponsors"
   # url: /collection-archive/
   - title: "Support Us"
