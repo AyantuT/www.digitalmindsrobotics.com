@@ -7,3 +7,10 @@ main:
   # url: /collection-archive/
   - title: "Support Us"
   # url: /sitemap/
+  - title: "Robots"
+  # url:
+  - title: "Images"
+  # url:
+  - title: "Contact Us"
+    url: /contact/
+  
