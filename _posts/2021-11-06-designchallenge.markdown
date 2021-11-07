@@ -2,7 +2,6 @@
 layout: single
 title:  "5458 begins fall Design Challenge"
 date:   2021-11-06
-permalink: /posts/
 categories: jekyll update
 ---
 
