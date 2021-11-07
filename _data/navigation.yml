@@ -3,8 +3,6 @@ main:
     url: /about-first/
   - title: "History"
     url: /history/
-  - title: "Posts"
-    url: /posts/
   - title: "Sponsors"
     url: /sponsors/
   - title: "Support Us"
