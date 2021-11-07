@@ -7,7 +7,9 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-* {background-color: #F25F5F}
+html{
+    background-color: #F25F5F;
+}
 
 .site-title, .page-link {
  color: black !important;
