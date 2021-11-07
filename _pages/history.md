@@ -2,6 +2,7 @@
 layout: single
 title: History of 5458
 permalink: /history/
+author_profile: true
 ---
 
 Founded August 26, 2014, Team 5458 has built an amazing history over its 5 years.
