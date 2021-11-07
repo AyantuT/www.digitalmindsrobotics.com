@@ -2,7 +2,6 @@
 layout: single
 title:  "Team 5458 is selected as a Semifinalist in 2021 Innovation Challenge"
 date:   2021-11-06
-permalink: /posts/
 categories: jekyll update
 ---
 
