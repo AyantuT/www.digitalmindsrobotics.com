@@ -4,7 +4,7 @@ main:
   - title: "History"
     url: /history/
   - title: "Sponsors"
-  # url: /collection-archive/
+    url: /sponsors/
   - title: "Support Us"
   # url: /sitemap/
   - title: "Robots"
