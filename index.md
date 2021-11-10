@@ -9,4 +9,4 @@ excerpt: >
 
 ---
 
-![header0](digital minds logo.png)
+![header0](digital-minds.png)
