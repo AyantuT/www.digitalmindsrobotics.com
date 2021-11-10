@@ -2,6 +2,8 @@
 layout: splash
 permalink: /
 hidden: true
+author_profile: true
+comments: true
 header:
   overlay_color: "#bfc7de"
 excerpt: >
