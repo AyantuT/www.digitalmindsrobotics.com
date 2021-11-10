@@ -3,8 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#bfc7de"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>      
+  FRC Team 5458 Digital Minds is a FIRST Robotics team founded on August 26, 2014 when the Davis High School’s FIRST Robotics team, 1678 Citrus Circuits introduced their passion for robotics to the Woodland High School and Pioneer High School students.<br />      
 ---
