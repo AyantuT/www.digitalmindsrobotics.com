@@ -7,12 +7,12 @@ main:
     url: /sponsors/
   - title: "Support Us"
   # url: /sitemap/
-  - title: "Robots"
-  # url:
-  - title: "Images"
-  # url:
   - title: "Posts"
     url: /posts-archive/
+  - title: "Images"
+  # url:
+  - title: "Robots"
+  # url:
   - title: "Contact Us"
     url: /contact/
   
