@@ -11,15 +11,9 @@ excerpt: >
 feature_row:
   - image_path: first-logo.png
     alt: "FIRST logo"
+    type: left
   - image_path: digital minds logo.png
     alt: "Team logo"
-feature_row2:
-  - image_path: first-logo.png
-    alt: "placeholder image 2"
-feature_row3:
-  - image_path: digital minds logo.png
-    alt: "placeholder image 2"
+    type: right
 ---
 {% include feature_row %}
-{% include feature_row id="feature_row2" type="left" %}
-{% include feature_row id="feature_row3" type="right" %}
