@@ -12,3 +12,4 @@ feature_row:
   - image_path: digital minds logo.png
     alt: "Team logo"
 ---
+{% include feature_row type="center" %}
