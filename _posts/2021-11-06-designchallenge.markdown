@@ -2,7 +2,8 @@
 layout: single
 title:  "5458 begins fall Design Challenge"
 date:   2021-11-06
-categories: jekyll update
+share: true
+comments: true
 ---
 
 On October 23, Team 5458 began its fall Design Challenge using the VEX Robotics Competition game, Starstruck. The team is split up into six groups to design, build, 
