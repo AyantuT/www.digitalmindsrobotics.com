@@ -11,6 +11,8 @@ main:
   # url:
   - title: "Images"
   # url:
+  - title: "Posts"
+    url: /posts-archive/
   - title: "Contact Us"
     url: /contact/
   
