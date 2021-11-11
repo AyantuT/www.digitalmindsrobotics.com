@@ -11,9 +11,9 @@ excerpt: >
 feature_row:
   - image_path: first-logo.png
     alt: "FIRST logo"
-    type: left
   - image_path: digital minds logo.png
     alt: "Team logo"
-    type: right
+  - image_path: frc-logo.png
+    alt: "FRC logo"
 ---
 {% include feature_row %}
