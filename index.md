@@ -3,7 +3,6 @@ layout: splash
 permalink: /
 hidden: true
 author_profile: true
-comments: true
 header:
   overlay_color: "#E8E8E8"
   text_color: "#8b0000"
