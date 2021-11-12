@@ -6,7 +6,7 @@ main:
   - title: "Sponsors"
     url: /sponsors/
   - title: "Support Us"
-  # url: /sitemap/
+    url: /support/
   - title: "Posts"
     url: /posts-archive/
   - title: "Images"
