@@ -3,7 +3,6 @@ layout: single
 title: About FIRST
 permalink: /about-first/
 author_profile: true
-comments: true 
 ---
 
 FIRST (*F*or *I*nspiration and *R*ecognition of *S*cience and *T*echnology) was founded in 1989 to inspire young people’s interest and participation in science and technology. FIRST Championships are held annually to promote and inspire K-12 students to engage in innovative processes and STEM activities.
