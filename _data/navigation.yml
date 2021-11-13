@@ -10,7 +10,7 @@ main:
   - title: "Posts"
     url: /posts-archive/
   - title: "Images"
-  # url:
+    url: /images/
   - title: "Robots"
   # url:
   - title: "Contact Us"
