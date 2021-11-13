@@ -24,7 +24,6 @@ masthead_title           : # overrides the website title displayed in the masthe
 comments:
   provider               : "staticman_v2" # "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   staticman:
-    allowedFields        : ['name', 'email'. 'url', 'message']
     branch               : "master"
     #commitMessage          : "New comment by {fields.name}"
     #filename               : "comment-{@timestamp}"
