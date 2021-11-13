@@ -1,5 +1,6 @@
 ---
 title: "Team 5458 Image Gallery"
+permalink: /images/
 gallery:
   - url: /images/summercamp1.jpg
     image_path: /images/summercamp1.jpg
