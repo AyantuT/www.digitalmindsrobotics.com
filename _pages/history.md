@@ -2,6 +2,7 @@
 layout: single
 title: History of 5458
 permalink: /history/
+classes: wide
 author_profile: true
 ---
 
