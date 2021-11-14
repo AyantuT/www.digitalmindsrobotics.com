@@ -241,6 +241,18 @@ compress_html:
   ignore:
     envs: development
 
+collections_dir: data
+collections:
+  history:
+    output: false
+  sponsors:
+    output: false
+  robots:
+    output: true
+    permalink: /robots/:name
+  images:
+    output: true
+    permalink: /images/:name
 
 # Defaults
 defaults:
