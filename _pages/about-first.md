@@ -2,6 +2,7 @@
 layout: single
 title: About FIRST
 permalink: /about-first/
+classes: wide
 author_profile: true
 ---
 
