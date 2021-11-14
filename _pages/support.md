@@ -2,6 +2,7 @@
 layout: single
 title: Support us
 permalink: /support/
+classes: wide
 author_profile: true
 ---
 
