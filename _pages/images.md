@@ -5,7 +5,7 @@ gallery:
   - url: /images/summercamp/summercamp1.jpg
     image_path: /images/summercamp/summercamp1.jpg
     alt: "Summer Camp Image 1"
-    title: Summer Camps 2019
+    title: "Summer Camps 2019"
   - url: /images/summercamp/summercamp2.jpg
     image_path: /images/summercamp/summercamp2.jpg
     alt: "Summer Camp Image 2"
@@ -24,6 +24,7 @@ gallery:
   - url: /images/summercamp/summercamp7.jpg
     image_path: /images/summercamp/summercamp7.jpg
     alt: "Summer Camp Image 7"
+
 ---
 {% include gallery %}
 
