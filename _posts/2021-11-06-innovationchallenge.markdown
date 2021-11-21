@@ -1,6 +1,9 @@
 ---
 title:  "Team 5458 is selected as a Semifinalist in 2021 Innovation Challenge"
 date:   2021-11-06
+tags:
+  - 2021
+  - FRC At Home
 ---
 
 See the Daily Democrat article below detailing FRC Team 5458's success in the 2021 FIRST Innovation Challenge presented by Qualcomm.
