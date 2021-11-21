@@ -1,7 +1,6 @@
 ---
 title:  "5458 begins fall Design Challenge"
 date:   2021-11-06
-layout: single
 tags:
   - 2021
   - Offseason
