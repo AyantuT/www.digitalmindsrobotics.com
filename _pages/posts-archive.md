@@ -1,6 +1,6 @@
 ---
 title: "Recent Posts"
 permalink: /posts-archive/
-layout: posts
+layout: archive
 author_profile: true
 ---
