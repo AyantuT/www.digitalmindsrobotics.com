@@ -1,6 +1,6 @@
 ---
 title: "Recent Posts"
-permalink: /year-archive/
+permalink: /posts-archive/
 layout: posts
 author_profile: true
 ---
