@@ -8,4 +8,4 @@ On October 23, Team 5458 began its fall Design Challenge using the VEX Robotics 
 and program a robot to play the game, while simultaneously being trained on the engineering design process leading into the 2022 build season.
 We will hold a competition on December 4th to conclude our Design Challenge.
 
-![header1](20211023_143158.jpg)
+<img src="/images/20211023_143158.jpg" alt="Design Challenge" style="width:750px;height:500px;">
