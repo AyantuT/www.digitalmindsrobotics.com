@@ -1,6 +1,6 @@
 main:
   - title: "About Us"
-    url: /about/about-us/
+    url: /about/
   - title: "History"
     url: /history/
   - title: "Sponsors"
