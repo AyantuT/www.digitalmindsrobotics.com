@@ -1,6 +1,6 @@
 main:
   - title: "About Us"
-    url: /about-first/
+    url: /about/about-us/
   - title: "History"
     url: /history/
   - title: "Sponsors"
@@ -15,4 +15,12 @@ main:
   # url:
   - title: "Contact Us"
     url: /contact/
+    
+about:
+  - title: About Us
+    children:
+      - title: "About 5458"
+        url: /about/about-us/
+      - title: "About FIRST"
+        url: /about/about-first/
   
