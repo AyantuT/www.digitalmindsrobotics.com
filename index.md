@@ -10,6 +10,6 @@ excerpt: >
 intro: 
   - excerpt: 'Team Calendar:'
 ---
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 <iframe src="https://calendar.google.com/calendar/embed?src=frc5458%40gmail.com&ctz=America%2FLos_Angeles" title = "Team Calendar" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
