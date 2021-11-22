@@ -12,7 +12,7 @@ main:
   - title: "Images"
     url: /images/
   - title: "Robots"
-  # url:
+    url: /robots/
   - title: "Contact Us"
     url: /contact/
   
