@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Robots
+toc: true
 permalink: /robots/
 ---
 
@@ -13,9 +14,9 @@ Axon is our 2019 competition robot for Destination: Deep Space.
 
 | [![axon-cad]][axon-cad-2x]{:data-fancybox="cad-gallery" data-caption="Axon's CAD model. Modelled in OnShape"} | [![axon-drivetrain]][axon-drivetrain-2x]{:data-fancybox="cad-gallery" data-caption="Axon's Drivetrain CAD"} | [![axon-gearbox]][axon-gearbox-2x]{:data-fancybox="cad-gallery" data-caption="Axon's 5:1 Gearbox"} |
 
-#### Drivetrain
+### Drivetrain
 
-##### Gearbox
+#### Gearbox
 
 | -------------- | -------------------------------------------------------- |
 | **Motors**     | 6x [Mini CIMs] |
