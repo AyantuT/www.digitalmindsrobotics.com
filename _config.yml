@@ -108,7 +108,7 @@ footer:
   links:
     - label: "Calendar"
       icon: "fas fa-calendar-alt"
-      url: /calendar/
+      url: /_pages/calendar/
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/frc5458/"
