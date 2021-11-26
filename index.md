@@ -12,6 +12,8 @@ feature_row:
   - image_path: first-logo.png
   - image_path: digital minds logo.png
 ---
+<a href="/calendar/" title = "Team Calendar" style = "color:red">
+  
 {% include feature_row %}
 
 
