@@ -5,7 +5,7 @@ permalink: /history/
 toc: true
 ---
 
-Founded August 26, 2014, Team 5458 has built an amazing history over its 5 years.
+Founded August 26, 2014, Team 5458 has built an amazing history over its 7 years.
 
 ## 2021: FRC At Home
 Despite not being able to attend competitions, meet in person during the season (January-April), or build a robot this year, team 5458 made the most of these unique 
