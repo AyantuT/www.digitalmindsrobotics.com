@@ -115,6 +115,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/frc5458/?hl=en"
+    - label: "Calendar"
+      icon: "fas fa-calendar-alt"
+      url: <a href="/calendar/">
 
 
 # Reading Files
